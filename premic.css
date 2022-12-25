@@ -48,10 +48,6 @@ body {
     cursor: pointer;
 }
 
-.osztalykep:hover {
-    border:15px solid rgb(2, 0, 99);
-    border-radius: 20%;
-}
 
 li a {
     text-decoration: none;
